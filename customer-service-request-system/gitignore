@@ -1,0 +1,10 @@
+# Compiled output
+bin/
+obj/
+
+# Code::Blocks personal layout
+*.layout
+
+# OS files
+.DS_Store
+Thumbs.db
